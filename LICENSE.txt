@@ -1,0 +1,25 @@
+Network Toolkit License (Custom BY License)
+
+Bu yazılım özgürdür. Aşağıdaki şartlara uyduğunuz sürece kullanabilir, kopyalayabilir, değiştirebilir ve dağıtabilirsiniz:
+
+1. Bu projeyi kullanmanız, değiştirmeniz veya dağıtmanız durumunda orijinal yazarı **karga001**'ın adı açık bir şekilde belirtilmelidir.
+
+2. Kodun orijinal halinden veya değiştirilmiş bir versiyonundan doğabilecek hiçbir sorumluluk yazara ait değildir.
+
+3. Bu yazılım ticari ya da kişisel amaçla kullanılabilir. Ancak her durumda yazarın adı (karga001) açıkça belirtilmelidir.
+
+4. Bu lisansın bir kopyası her dağıtımda yer almalıdır.
+
+---
+
+❗ SORUMLULUK REDDİ (DISCLAIMER)
+
+Bu yazılım yalnızca **eğitim ve test** amaçlı geliştirilmiştir.
+
+Yazar (karga001), bu yazılımın kötüye kullanımı, yasa dışı faaliyetlerde kullanılması veya herhangi bir sistem/kişiye zarar verilmesi durumunda **hiçbir sorumluluk kabul etmez**.
+
+Kullanıcı, bu yazılımı kullanarak tüm sorumluluğu **kendi üzerine aldığını** kabul eder.
+
+---
+
+Copyright (c) 2025 karga001
